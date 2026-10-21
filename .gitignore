@@ -1,0 +1,13 @@
+# Build outputs
+HW5/build/
+*.tar.gz
+*.vcd
+*.wlf
+transcript
+work/
+
+# Course-provided files (not mine to redistribute)
+HW5/srcs/tb/
+HW5/srcs/cpp/
+HW5/README.pdf
+HW5/report/*.pdf
