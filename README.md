@@ -18,6 +18,6 @@ saturation (−128…127), and writes the result to a 32-bit SRAM as two words.
   hold slack +0.03 ns, 609 cells / 1643 µm².
 
 ## Files
-- `HW5/srcs/rtl/dut.sv` — `dut_datapath`, `dut_control`, top-level `dut`
+- `srcs/rtl/dut.sv` — `dut_datapath`, `dut_control`, top-level `dut`
 
 Built for NC State ECE 564 (ASIC design).

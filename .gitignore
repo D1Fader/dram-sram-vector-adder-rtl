@@ -1,13 +1,17 @@
 # Build outputs
-HW5/build/
+build/
 *.tar.gz
 *.vcd
 *.wlf
 transcript
 work/
 
+# Editor settings
+.vscode/
+
 # Course-provided files (not mine to redistribute)
-HW5/srcs/tb/
-HW5/srcs/cpp/
-HW5/README.pdf
-HW5/report/*.pdf
+srcs/tb/
+srcs/cpp/
+README.pdf
+TEMPLATE_README.md
+report/*.pdf
